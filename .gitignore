@@ -4,7 +4,12 @@
 /build
 
 
-mongo/
+/src/main.ts
+/mongo
+
+
+
+
 # Logs
 logs
 *.log
